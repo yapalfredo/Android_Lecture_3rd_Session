@@ -2,6 +2,6 @@
 July 9th, 2019 code along repo with the instructor
 
 
-#Topics:
+# Topics:
 -unit testing
 -sending data from one activity to another
